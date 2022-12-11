@@ -1,10 +1,8 @@
 # Hello
-Am NoteyMC And I learn some random codes
+Am lueist And Currently Learning random things <3
 Currently Understand:
 Json
-Bedrock Slashes
-Java Script
+Bedrock Codebase Slashes (Command Blocks found in Bedrock)
+JS
 HTML
 CSS
-## I Work and manage Nexcloud Website!
-## KitPVP Minigames Server is coming soon.
