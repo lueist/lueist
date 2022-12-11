@@ -1,8 +1,8 @@
 # Hello
-Am lueist And Currently Learning random things <3
+Am lueist And Currently Learning random things <3 <br>
 Currently Understand:
-Json
-Bedrock Codebase Slashes (Command Blocks found in Bedrock)
-JS
-HTML
-CSS
+Json<br>
+Bedrock Codebase Slashes (Command Blocks found in Bedrock)<br>
+JS<br>
+HTML<br>
+CSS<br>
